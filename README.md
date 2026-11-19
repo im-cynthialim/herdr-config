@@ -31,7 +31,7 @@ This repo is `~/.config/herdr-app` itself, with everything Herdr writes or ships
 
 ```sh
 cd ~/.config/herdr-app
-git init && git remote add origin git@github.com:im-cynthialim/herdr-config.git
+git init && git remote add origin https://github.com/im-cynthialim/herdr-config.git
 git fetch && git checkout -f -t origin/main
 ```
 
